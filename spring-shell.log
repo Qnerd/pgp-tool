@@ -1,0 +1,6 @@
+1518987114751:version
+1518987126814:decrypt
+1518987159921:decrypt --keyfile key.pub --datafile data.zip.pgp
+1518988707776:encrypt --keyfile key.pub --datafile data.png
+1518988732112:stacktrace
+1518988760294:encrypt --keyfile key.pub --datafile data.png
